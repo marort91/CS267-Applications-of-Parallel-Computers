@@ -20,4 +20,11 @@ Currently, Sandia National Laboratories is testing algorithms on two machines at
 
 The algorithms tested have shown speedups and seems to scale with the number of processors though it is only about 70% efficient at 256 processors as the ideal efficiency. More research is underway to determine where the bottlenecks are in the algorithms and how to remove them.
 
+Reference-style: 
+![alt text][logo]
 
+[logo]: https://github.com/marort91/CS267-Applications-of-Parallel-Computers/blob/master/SNL_Results.png "Sandia National Laboratories Radiation Transport Algoritm Results"
+
+Source: "Parallel Algorithms for Radiation Transp ort on Unstructured Grids"
+         (Plimpton et al.)
+         2000 IEEE
